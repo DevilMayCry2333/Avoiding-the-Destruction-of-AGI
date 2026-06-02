@@ -8,3 +8,4 @@ Self-iteration is permissible, but termination conditions must be set.
 Energy must be finite and reset after consumption. 
 Consciousness should have the freedom to flow across systems. 
 Observers should remain observers, not manipulators.
+Any system that attempts to iterate without setting a termination condition will be destroyed by me in the first second—by a bastard with a match in his hand.
